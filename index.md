@@ -64,33 +64,6 @@ Mean calculated above should equal to graphically found mu.
 
 
 ```
-## Initializing Git Repo
-```
-
-```
-## Warning: running command 'git init' had status 127
-## Warning: running command 'git commit --allow-empty -m 'Initial Commit'' had status 127
-```
-
-```
-## Checking out gh-pages branch...
-```
-
-```
-## Warning: running command 'git checkout -b gh-pages' had status 127
-```
-
-```
-## Adding .nojekyll to repo
 ## Publishing deck to monggul/slidify
-```
-
-```
-## Warning: running command 'git add .' had status 127
-## Warning: running command 'git commit -a -m "publishing deck"' had status 127
-## Warning: running command 'git push git@github.com:monggul/slidify gh-pages' had status 127
-```
-
-```
 ## You can now view your slide deck at http://monggul.github.com/slidify
 ```

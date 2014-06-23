@@ -58,6 +58,6 @@ round(mean(galton$child))
 
 Mean calculated above should equal to graphically found mu.
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, warning=FALSE}
 publish(user = "monggul", repo = "slidify")
 ```
